@@ -1,0 +1,52 @@
+#footer 
+{
+    background-color: #f8f9fd;
+    padding: 20px 10px 8px;
+    
+    p 
+    {
+        padding: 0 15%;
+        color: #333;
+    }
+
+    .fab
+    {
+        font-size: 27.5px;
+        margin: 0 10px;
+    }
+
+    .fa-whatsapp
+    {
+       color: rgb(82, 255, 47);
+    }
+
+    .fa-twitter-square
+    {
+       color: rgb(0, 200, 255);
+    }
+
+    .fa-facebook
+    {
+        color: rgb(0, 20, 255);
+    }
+
+    .fa-linkedin
+    {
+        color: rgb(0, 120, 255);
+    }
+}
+
+.footer-image 
+{
+    margin: 30px 0;
+    height: 100px;
+    width: 135px;
+}
+
+hr 
+{
+    background-color: #ababab;
+    width: 70%;
+    margin:  20px auto;
+    border: 1px solid #ababab;
+}
